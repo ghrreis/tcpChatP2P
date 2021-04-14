@@ -1,2 +1,2 @@
 # tcpChatP2P
-Chat P2P
+Aplicação chat (arquitetura híbrida)
